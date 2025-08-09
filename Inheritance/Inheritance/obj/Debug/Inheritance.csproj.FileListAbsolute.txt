@@ -1,0 +1,8 @@
+C:\Users\adelle\Desktop\c# console application\dcit318-assignment2-11127249\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\adelle\Desktop\c# console application\dcit318-assignment2-11127249\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\adelle\Desktop\c# console application\dcit318-assignment2-11127249\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\adelle\Desktop\c# console application\dcit318-assignment2-11127249\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\adelle\Desktop\c# console application\dcit318-assignment2-11127249\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\adelle\Desktop\c# console application\dcit318-assignment2-11127249\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\adelle\Desktop\c# console application\dcit318-assignment2-11127249\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\adelle\Desktop\c# console application\dcit318-assignment2-11127249\Inheritance\Inheritance\obj\Debug\Inheritance.exe.config
