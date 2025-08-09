@@ -1,0 +1,8 @@
+C:\Users\adelle\Desktop\c# console application\dcit318-assignment2-11127249\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\adelle\Desktop\c# console application\dcit318-assignment2-11127249\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\adelle\Desktop\c# console application\dcit318-assignment2-11127249\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\adelle\Desktop\c# console application\dcit318-assignment2-11127249\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.AssemblyReference.cache
+C:\Users\adelle\Desktop\c# console application\dcit318-assignment2-11127249\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\adelle\Desktop\c# console application\dcit318-assignment2-11127249\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\adelle\Desktop\c# console application\dcit318-assignment2-11127249\Abstraction\Abstraction\obj\Debug\Abstraction.pdb
+C:\Users\adelle\Desktop\c# console application\dcit318-assignment2-11127249\Abstraction\Abstraction\obj\Debug\Abstraction.exe.config
